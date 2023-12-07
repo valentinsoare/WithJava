@@ -2,7 +2,9 @@ package WithJava.PirateGame.src.main.java.playing.pirate;
 
 import playing.game.Player;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Random;
 
 public sealed abstract class Combatant implements Player
         permits Islander, Pirate, Soldier {
