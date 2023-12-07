@@ -1,4 +1,4 @@
-package playing.store;
+package WithJava.StoreFront.src.main.java.playing.store;
 
 public class OrderItem {
     private Integer quantity;

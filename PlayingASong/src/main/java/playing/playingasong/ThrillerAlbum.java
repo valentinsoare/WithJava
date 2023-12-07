@@ -1,4 +1,4 @@
-package playing.playingasong;
+package WithJava.PlayingASong.src.main.java.playing.playingasong;
 
 public class ThrillerAlbum extends Album {
     protected ThrillerAlbum(int emptySpaces) {

@@ -1,4 +1,4 @@
-package playing.bankingwithimmutability;
+package WithJava.BankingWithImmutability.src.main.java.playing.bankingwithimmutability;
 
 public final class Transaction {
     private final int routingNumber;

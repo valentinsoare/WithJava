@@ -1,4 +1,4 @@
-package org.bankingapplicationwiththreading;
+package WithJava.BankingApplicationWithThreading.src.main.java.org.bankingapplicationwiththreading;
 
 public class PrintNum extends Thread {
     private int num;

@@ -1,4 +1,4 @@
-package playing.gameOfCrapsOOP;
+package WithJava.GameOfCrapsWithMenuAndOOP.src.main.java.playing.gameOfCrapsOOP;
 
 import java.util.List;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package org.guessinggame;
+package WithJava.GuessTheNumber.src.main.java.org.guessinggame;
 
 import java.util.List;
 import java.util.Random;

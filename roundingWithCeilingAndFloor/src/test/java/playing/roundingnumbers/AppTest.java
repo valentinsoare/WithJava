@@ -1,8 +1,8 @@
-package playing.roundingnumbers;
-
-import static org.junit.Assert.assertTrue;
+package WithJava.roundingWithCeilingAndFloor.src.test.java.playing.roundingnumbers;
 
 import org.junit.Test;
+
+import static org.junit.Assert.assertTrue;
 
 /**
  * Unit test for simple App.

@@ -1,4 +1,4 @@
-package playing.warcraftsimulation;
+package WithJava.WarcratSimulationInWriting.src.test.java.playing.warcraftsimulation;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

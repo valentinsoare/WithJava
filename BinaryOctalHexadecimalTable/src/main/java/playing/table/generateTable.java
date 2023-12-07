@@ -1,4 +1,4 @@
-package playing.table;
+package WithJava.BinaryOctalHexadecimalTable.src.main.java.playing.table;
 
 import java.util.List;
 import java.util.ArrayList;

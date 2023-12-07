@@ -1,8 +1,8 @@
-package playing.tossacoin;
-
-import static org.junit.Assert.assertTrue;
+package WithJava.TossACoin.src.test.java.playing.tossacoin;
 
 import org.junit.Test;
+
+import static org.junit.Assert.assertTrue;
 
 /**
  * Unit test for simple App.

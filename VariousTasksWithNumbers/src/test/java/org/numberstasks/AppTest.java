@@ -1,8 +1,8 @@
-package org.numberstasks;
-
-import static org.junit.Assert.assertTrue;
+package WithJava.VariousTasksWithNumbers.src.test.java.org.numberstasks;
 
 import org.junit.Test;
+
+import static org.junit.Assert.assertTrue;
 
 /**
  * Unit test for simple App.

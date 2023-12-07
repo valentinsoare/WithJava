@@ -1,4 +1,4 @@
-package playing;
+package WithJava.PirateGame.src.main.java.playing;
 
 import playing.game.GameConsole;
 import playing.pirate.PirateGame;

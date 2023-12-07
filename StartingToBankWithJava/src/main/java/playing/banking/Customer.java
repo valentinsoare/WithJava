@@ -1,9 +1,10 @@
-package playing.banking;
+package WithJava.StartingToBankWithJava.src.main.java.playing.banking;
 
-import java.util.List;
-import java.util.ArrayList;
-import java.util.concurrent.TimeUnit;
 import org.apache.commons.lang3.StringUtils;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.concurrent.TimeUnit;
 
 public class Customer {
     private String name;

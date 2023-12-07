@@ -1,8 +1,8 @@
-package playing.kingdom;
-
-import static org.junit.Assert.assertTrue;
+package WithJava.wildKingdom.src.test.java.playing.kingdom;
 
 import org.junit.Test;
+
+import static org.junit.Assert.assertTrue;
 
 /**
  * Unit test for simple App.

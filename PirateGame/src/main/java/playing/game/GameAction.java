@@ -1,4 +1,4 @@
-package playing.game;
+package WithJava.PirateGame.src.main.java.playing.game;
 
 import java.util.function.Predicate;
 

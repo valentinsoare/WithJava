@@ -1,8 +1,8 @@
-package org.maps;
-
-import static org.junit.Assert.assertTrue;
+package WithJava.ProvideInfoForMaps.src.test.java.org.maps;
 
 import org.junit.Test;
+
+import static org.junit.Assert.assertTrue;
 
 /**
  * Unit test for simple App.

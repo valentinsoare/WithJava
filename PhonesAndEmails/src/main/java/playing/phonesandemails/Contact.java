@@ -1,4 +1,4 @@
-package playing.phonesandemails;
+package WithJava.PhonesAndEmails.src.main.java.playing.phonesandemails;
 
 import java.util.Set;
 import java.util.HashSet;

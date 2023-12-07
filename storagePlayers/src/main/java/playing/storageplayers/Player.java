@@ -1,4 +1,4 @@
-package playing.storageplayers;
+package WithJava.storagePlayers.src.main.java.playing.storageplayers;
 
 import java.util.List;
 import java.util.Arrays;

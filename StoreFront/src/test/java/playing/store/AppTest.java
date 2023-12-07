@@ -1,8 +1,8 @@
-package playing.store;
-
-import static org.junit.Assert.assertTrue;
+package WithJava.StoreFront.src.test.java.playing.store;
 
 import org.junit.Test;
+
+import static org.junit.Assert.assertTrue;
 
 /**
  * Unit test for simple App.

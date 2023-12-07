@@ -1,4 +1,4 @@
-package playing.studentsgenerics;
+package WithJava.StudentsGenerics.src.main.java.playing.studentsgenerics;
 
 import java.security.SecureRandom;
 

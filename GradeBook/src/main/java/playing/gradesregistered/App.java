@@ -1,4 +1,4 @@
-package playing.gradesregistered;
+package WithJava.GradeBook.src.main.java.playing.gradesregistered;
 
 public class App {
     public static void main( String[] args ) throws InterruptedException {

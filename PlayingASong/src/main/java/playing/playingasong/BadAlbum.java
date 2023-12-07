@@ -1,4 +1,4 @@
-package playing.playingasong;
+package WithJava.PlayingASong.src.main.java.playing.playingasong;
 
 public class BadAlbum extends Album {
     protected BadAlbum(int emptySpaces) {

@@ -1,4 +1,4 @@
-package playing.kingdom;
+package WithJava.wildKingdom.src.main.java.playing.kingdom;
 
 public class Dog extends Animal {
 

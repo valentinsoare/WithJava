@@ -1,4 +1,4 @@
-package playing.playgames;
+package WithJava.GameOfCraps.src.main.java.playing.playgames;
 
 import java.security.SecureRandom;
 

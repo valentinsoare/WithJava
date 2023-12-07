@@ -1,4 +1,6 @@
-package org.maps;
+package WithJava.ProvideInfoForMaps.src.main.java.org.maps;
+
+import java.awt.*;
 
 enum UsageType { ENTERTAINMENT, GOVERNMENT, RESIDENTIAL, SPORTS }
 

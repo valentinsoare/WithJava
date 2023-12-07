@@ -1,4 +1,4 @@
-package playing.studentsgenerics;
+package WithJava.StudentsGenerics.src.main.java.playing.studentsgenerics;
 
 public class ComputerScienceStudent extends Student {
     private Double percentComplete;

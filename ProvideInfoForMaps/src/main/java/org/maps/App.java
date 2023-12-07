@@ -1,4 +1,4 @@
-package org.maps;
+package WithJava.ProvideInfoForMaps.src.main.java.org.maps;
 
 import java.util.List;
 import java.util.ArrayList;

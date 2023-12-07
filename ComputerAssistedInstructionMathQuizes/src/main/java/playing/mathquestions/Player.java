@@ -1,4 +1,4 @@
-package playing.mathquestions;
+package WithJava.ComputerAssistedInstructionMathQuizes.src.main.java.playing.mathquestions;
 
 import org.apache.commons.lang3.StringUtils;
 

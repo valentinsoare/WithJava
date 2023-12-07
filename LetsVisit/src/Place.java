@@ -1,3 +1,5 @@
+package WithJava.LetsVisit.src;
+
 import org.apache.commons.lang3.StringUtils;
 
 public record Place(String name, double distance) {

@@ -1,4 +1,4 @@
-package playing.burger;
+package WithJava.Burger.src.main.java.playing.burger;
 
 import org.apache.commons.lang3.StringUtils;
 

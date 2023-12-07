@@ -1,4 +1,7 @@
-package org.bankingapplicationwiththreading;
+package WithJava.BankingApplicationWithThreading.src.main.java.org.bankingapplicationwiththreading;
+
+import org.bankingapplicationwiththreading.PrintChar;
+import org.bankingapplicationwiththreading.PrintNum;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.ThreadPoolExecutor;

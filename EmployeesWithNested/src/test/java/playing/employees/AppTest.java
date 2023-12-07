@@ -1,8 +1,8 @@
-package playing.employees;
-
-import static org.junit.Assert.assertTrue;
+package WithJava.EmployeesWithNested.src.test.java.playing.employees;
 
 import org.junit.Test;
+
+import static org.junit.Assert.assertTrue;
 
 /**
  * Unit test for simple App.

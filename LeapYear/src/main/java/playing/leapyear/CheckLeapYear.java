@@ -1,4 +1,4 @@
-package playing.leapyear;
+package WithJava.LeapYear.src.main.java.playing.leapyear;
 
 import java.util.Scanner;
 

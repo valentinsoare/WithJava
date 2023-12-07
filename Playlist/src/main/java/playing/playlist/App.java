@@ -1,4 +1,4 @@
-package playing.playlist;
+package WithJava.Playlist.src.main.java.playing.playlist;
 
 import java.util.Comparator;
 

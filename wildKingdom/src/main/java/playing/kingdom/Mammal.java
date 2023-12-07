@@ -1,4 +1,4 @@
-package playing.kingdom;
+package WithJava.wildKingdom.src.main.java.playing.kingdom;
 
 abstract class Mammal extends Animal {
     protected Mammal(String type, String size, double weight) {

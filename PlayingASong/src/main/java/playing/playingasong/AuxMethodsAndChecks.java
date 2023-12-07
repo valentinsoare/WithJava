@@ -1,4 +1,4 @@
-package playing.playingasong;
+package WithJava.PlayingASong.src.main.java.playing.playingasong;
 
 import java.util.List;
 import java.util.Arrays;

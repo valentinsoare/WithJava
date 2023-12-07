@@ -1,4 +1,4 @@
-package playing.game;
+package WithJava.PirateGame.src.main.java.playing.game;
 
 public record Shooter(String name) implements Player {
 

@@ -1,4 +1,4 @@
-package playing.Checks;
+package WithJava.PirateGame.src.main.java.playing.Checks;
 
 public class AuxMethods {
     public static String processFirstNameLastName(String name) throws InterruptedException {

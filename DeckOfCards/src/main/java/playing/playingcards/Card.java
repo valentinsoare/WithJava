@@ -1,4 +1,4 @@
-package playing.playingcards;
+package WithJava.DeckOfCards.src.main.java.playing.playingcards;
 
 public class Card {
     private final String face;

@@ -1,4 +1,4 @@
-package playing.university;
+package WithJava.University.src.main.java.playing.university;
 
 import java.util.List;
 import java.util.Arrays;

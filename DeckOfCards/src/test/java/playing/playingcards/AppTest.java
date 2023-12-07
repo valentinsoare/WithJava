@@ -1,8 +1,8 @@
-package playing.playingcards;
-
-import static org.junit.Assert.assertTrue;
+package WithJava.DeckOfCards.src.test.java.playing.playingcards;
 
 import org.junit.Test;
+
+import static org.junit.Assert.assertTrue;
 
 /**
  * Unit test for simple App.

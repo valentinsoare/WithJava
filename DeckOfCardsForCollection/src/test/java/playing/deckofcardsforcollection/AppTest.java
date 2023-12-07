@@ -1,8 +1,8 @@
-package playing.deckofcardsforcollection;
-
-import static org.junit.Assert.assertTrue;
+package WithJava.DeckOfCardsForCollection.src.test.java.playing.deckofcardsforcollection;
 
 import org.junit.Test;
+
+import static org.junit.Assert.assertTrue;
 
 /**
  * Unit test for simple App.

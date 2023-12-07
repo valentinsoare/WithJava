@@ -1,4 +1,4 @@
-package playing.warcraftsimulation;
+package WithJava.WarcratSimulationInWriting.src.main.java.playing.warcraftsimulation;
 
 import java.util.List;
 import java.util.Arrays;

@@ -1,8 +1,8 @@
-package playing.phonesandemails;
-
-import static org.junit.Assert.assertTrue;
+package WithJava.PhonesAndEmails.src.test.java.playing.phonesandemails;
 
 import org.junit.Test;
+
+import static org.junit.Assert.assertTrue;
 
 /**
  * Unit test for simple App.

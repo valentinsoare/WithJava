@@ -1,4 +1,4 @@
-package playing.gameOfCrapsOOP;
+package WithJava.GameOfCrapsWithMenuAndOOP.src.main.java.playing.gameOfCrapsOOP;
 
 public class Play {
     public static void main(String[] args) throws InterruptedException {

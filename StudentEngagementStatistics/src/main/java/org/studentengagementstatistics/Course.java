@@ -1,4 +1,4 @@
-package org.studentengagementstatistics;
+package WithJava.StudentEngagementStatistics.src.main.java.org.studentengagementstatistics;
 
 public record Course(String courseCode, String title, int lectureCount) {
     @Override

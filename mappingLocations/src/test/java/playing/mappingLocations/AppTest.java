@@ -1,8 +1,8 @@
-package playing.mappingLocations;
-
-import static org.junit.Assert.assertTrue;
+package WithJava.mappingLocations.src.test.java.playing.mappingLocations;
 
 import org.junit.Test;
+
+import static org.junit.Assert.assertTrue;
 
 /**
  * Unit test for simple App.

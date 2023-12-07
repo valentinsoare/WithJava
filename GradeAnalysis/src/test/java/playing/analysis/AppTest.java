@@ -1,8 +1,8 @@
-package playing.analysis;
-
-import static org.junit.Assert.assertTrue;
+package WithJava.GradeAnalysis.src.test.java.playing.analysis;
 
 import org.junit.Test;
+
+import static org.junit.Assert.assertTrue;
 
 /**
  * Unit test for simple App.

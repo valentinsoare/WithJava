@@ -1,4 +1,4 @@
-package playing.theatreseating;
+package WithJava.TheatreSeating.src.main.java.playing.theatreseating;
 
 import java.util.*;
 

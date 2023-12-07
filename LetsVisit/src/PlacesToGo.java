@@ -1,7 +1,9 @@
+package WithJava.LetsVisit.src;
+
+import org.apache.commons.lang3.StringUtils;
 
 import java.util.*;
 import java.util.concurrent.TimeUnit;
-import org.apache.commons.lang3.StringUtils;
 
 public class PlacesToGo {
     private static Place currentPlace;

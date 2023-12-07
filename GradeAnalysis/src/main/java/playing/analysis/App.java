@@ -1,4 +1,4 @@
-package playing.analysis;
+package WithJava.GradeAnalysis.src.main.java.playing.analysis;
 
 import java.util.*;
 import java.util.concurrent.TimeUnit;

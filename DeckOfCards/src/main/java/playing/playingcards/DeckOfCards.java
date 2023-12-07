@@ -1,4 +1,4 @@
-package playing.playingcards;
+package WithJava.DeckOfCards.src.main.java.playing.playingcards;
 
 import java.util.List;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package toPublishOnRepo.GuessTheNumber.src.test.java.org.guessinggame;
+package WithJava.GuessTheNumber.src.test.java.org.guessinggame;
 
 import org.junit.Test;
 

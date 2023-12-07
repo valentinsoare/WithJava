@@ -1,4 +1,4 @@
-package playing.roundingnumbers;
+package WithJava.roundingWithCeilingAndFloor.src.main.java.playing.roundingnumbers;
 
 public class RoundingFloorAndCeiling {
     private static int myFloor(double num) {

@@ -1,4 +1,4 @@
-package playing.mathquestions;
+package WithJava.ComputerAssistedInstructionMathQuizes.src.main.java.playing.mathquestions;
 
 public class App {
     public static void main(String[] args) throws InterruptedException {

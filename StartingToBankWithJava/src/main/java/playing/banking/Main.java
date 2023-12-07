@@ -1,4 +1,4 @@
-package playing.banking;
+package WithJava.StartingToBankWithJava.src.main.java.playing.banking;
 
 import java.util.List;
 import java.util.ArrayList;

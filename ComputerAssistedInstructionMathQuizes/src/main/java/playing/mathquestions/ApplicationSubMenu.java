@@ -1,4 +1,4 @@
-package playing.mathquestions;
+package WithJava.ComputerAssistedInstructionMathQuizes.src.main.java.playing.mathquestions;
 
 import java.util.List;
 import java.util.LinkedList;

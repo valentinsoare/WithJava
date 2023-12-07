@@ -1,4 +1,4 @@
-package playing.warcraftsimulation;
+package WithJava.WarcratSimulationInWriting.src.main.java.playing.warcraftsimulation;
 
 public class Orc extends Hero implements Strength {
     protected Orc(String name) {

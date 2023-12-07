@@ -1,4 +1,4 @@
-package playing.burger;
+package WithJava.Burger.src.main.java.playing.burger;
 
 public class App {
     public static void main(String[] args) {

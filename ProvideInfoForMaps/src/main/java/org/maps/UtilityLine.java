@@ -1,6 +1,4 @@
-package org.maps;
-
-import javax.sound.sampled.Line;
+package WithJava.ProvideInfoForMaps.src.main.java.org.maps;
 
 enum UtilityType { ELECTRICAL, FIBER_OPTIC, GAS, WATER }
 

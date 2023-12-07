@@ -1,8 +1,8 @@
-package playing.pirategame;
-
-import static org.junit.Assert.assertTrue;
+package WithJava.PirateGame.src.test.java.playing.pirategame;
 
 import org.junit.Test;
+
+import static org.junit.Assert.assertTrue;
 
 /**
  * Unit test for simple App.

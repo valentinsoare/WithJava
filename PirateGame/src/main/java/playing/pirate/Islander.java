@@ -1,4 +1,4 @@
-package playing.pirate;
+package WithJava.PirateGame.src.main.java.playing.pirate;
 
 public final class Islander extends Combatant {
 

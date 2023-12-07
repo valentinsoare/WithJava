@@ -1,4 +1,4 @@
-package playing.theatreseating;
+package WithJava.TheatreSeating.src.main.java.playing.theatreseating;
 
 public class App {
     public static void main( String[] args ) throws InterruptedException {

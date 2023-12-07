@@ -1,4 +1,4 @@
-package org.studentengagementstatistics;
+package WithJava.StudentEngagementStatistics.src.main.java.org.studentengagementstatistics;
 
 import java.util.*;
 import java.time.LocalDate;

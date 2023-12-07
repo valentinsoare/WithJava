@@ -1,8 +1,8 @@
-package playing.studentsgenerics;
-
-import static org.junit.Assert.assertTrue;
+package WithJava.StudentsGenerics.src.test.java.playing.studentsgenerics;
 
 import org.junit.Test;
+
+import static org.junit.Assert.assertTrue;
 
 /**
  * Unit test for simple App.

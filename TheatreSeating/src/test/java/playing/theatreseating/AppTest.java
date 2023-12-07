@@ -1,8 +1,8 @@
-package playing.theatreseating;
-
-import static org.junit.Assert.assertTrue;
+package WithJava.TheatreSeating.src.test.java.playing.theatreseating;
 
 import org.junit.Test;
+
+import static org.junit.Assert.assertTrue;
 
 /**
  * Unit test for simple App.

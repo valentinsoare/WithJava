@@ -1,8 +1,8 @@
-package playing.table;
-
-import static org.junit.Assert.assertTrue;
+package WithJava.BinaryOctalHexadecimalTable.src.test.java.playing.table;
 
 import org.junit.Test;
+
+import static org.junit.Assert.assertTrue;
 
 /**
  * Unit test for simple App.

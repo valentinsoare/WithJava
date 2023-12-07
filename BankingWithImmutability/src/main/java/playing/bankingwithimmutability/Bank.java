@@ -1,4 +1,4 @@
-package playing.bankingwithimmutability;
+package WithJava.BankingWithImmutability.src.main.java.playing.bankingwithimmutability;
 
 import java.util.Map;
 import java.util.HashMap;

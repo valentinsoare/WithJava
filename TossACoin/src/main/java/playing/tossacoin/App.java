@@ -1,4 +1,4 @@
-package playing.tossacoin;
+package WithJava.TossACoin.src.main.java.playing.tossacoin;
 
 import java.util.*;
 import java.util.concurrent.TimeUnit;

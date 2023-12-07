@@ -1,4 +1,4 @@
-package playing.mappingLocations;
+package WithJava.mappingLocations.src.main.java.playing.mappingLocations;
 
 public class MiniAppMap {
     public static void main(String[] args) throws InterruptedException {

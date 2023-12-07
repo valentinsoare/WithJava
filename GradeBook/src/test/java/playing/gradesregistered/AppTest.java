@@ -1,8 +1,8 @@
-package playing.gradesregistered;
-
-import static org.junit.Assert.assertTrue;
+package WithJava.GradeBook.src.test.java.playing.gradesregistered;
 
 import org.junit.Test;
+
+import static org.junit.Assert.assertTrue;
 
 /**
  * Unit test for simple App.

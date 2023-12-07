@@ -1,4 +1,4 @@
-package playing.rollingthedice;
+package WithJava.CountSumOfDicesWhenRolling.src.main.java.playing.rollingthedice;
 
 import java.util.*;
 import java.util.concurrent.TimeUnit;

@@ -1,4 +1,4 @@
-package org.bankingapplicationwiththreading;
+package WithJava.BankingApplicationWithThreading.src.main.java.org.bankingapplicationwiththreading;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

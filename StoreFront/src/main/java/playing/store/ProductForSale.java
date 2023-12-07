@@ -1,4 +1,4 @@
-package playing.store;
+package WithJava.StoreFront.src.main.java.playing.store;
 
 import java.util.*;
 

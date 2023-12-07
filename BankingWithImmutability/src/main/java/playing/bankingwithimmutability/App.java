@@ -1,4 +1,4 @@
-package playing.bankingwithimmutability;
+package WithJava.BankingWithImmutability.src.main.java.playing.bankingwithimmutability;
 
 public class App {
     public static void main(String[] args) {

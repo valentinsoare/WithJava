@@ -1,4 +1,4 @@
-package playing.mappingLocations;
+package WithJava.mappingLocations.src.main.java.playing.mappingLocations;
 
 public class River extends Line implements Mappable {
     private String name;

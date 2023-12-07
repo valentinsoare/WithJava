@@ -1,8 +1,8 @@
-package playing.playgames;
-
-import static org.junit.Assert.assertTrue;
+package WithJava.GameOfCraps.src.test.java.playing.playgames;
 
 import org.junit.Test;
+
+import static org.junit.Assert.assertTrue;
 
 /**
  * Unit test for simple App.

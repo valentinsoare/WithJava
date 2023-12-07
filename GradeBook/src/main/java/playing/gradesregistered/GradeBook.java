@@ -1,4 +1,4 @@
-package playing.gradesregistered;
+package WithJava.GradeBook.src.main.java.playing.gradesregistered;
 
 import org.apache.commons.lang3.StringUtils;
 

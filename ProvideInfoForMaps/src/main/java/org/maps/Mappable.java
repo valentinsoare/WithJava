@@ -1,4 +1,4 @@
-package org.maps;
+package WithJava.ProvideInfoForMaps.src.main.java.org.maps;
 
 enum Geometry { LINE, POINT, POLYGON }
 enum Color { BLACK, BLUE, GREEN, ORANGE, RED }

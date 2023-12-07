@@ -1,4 +1,4 @@
-package org.numberstasks;
+package WithJava.VariousTasksWithNumbers.src.main.java.org.numberstasks;
 
 import java.util.*;
 
